@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+
+.loginPage {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.login-image {
+  height: 90px;
+}
+.loginImg {
+  height: 50px;
+}

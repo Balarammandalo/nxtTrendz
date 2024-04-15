@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+
+.homeContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+}
+.homeImg {
+  height: 80vh;
+}
+
+.clothesText {
+  width: 50vw;
+}
+.shopButton {
+  border: 0px;
+  font-size: 20px;
+  color: white;
+  width: 150px;
+  height: 35px;
+  background-color: #0b69ff;
+}
